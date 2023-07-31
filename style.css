@@ -1,0 +1,25 @@
+h1 {
+  margin: 0;
+}
+
+header {
+  background-color: #f4ad79;
+}
+
+nav {
+  background-color: #bae4a2;
+  float: left;
+  height: 300px;
+  width: 30%;
+}
+
+main {
+  background-color: #acc9f3;
+  float: left;
+  height: 300px;
+  width: 70%;
+}
+
+footer {
+  background-color: #edc678;
+}
